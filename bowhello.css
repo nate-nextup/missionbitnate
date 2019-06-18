@@ -6,3 +6,6 @@ h1 {
 h6{
     border : 2px solid rgb(2, 135, 255);
 }
+div {
+    font-family: Arial, Helvetica, sans-serif;
+}
